@@ -102,5 +102,6 @@ export default StyleSheet.create({
   // Calendar Custom
   customContainer: {
     justifyContent: "center",
+    flexDirection: "row",
   },
 });
